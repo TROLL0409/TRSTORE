@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/873956650220941344/1241328911066075211/logo.gif?ex=6649cd23&is=66487ba3&hm=f3be50fb78bc77e8fc5b5cbc7101e728712eb01f72871068e47225dbccc1666f&=&width=468&height=468">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tls&label=Profile%20views&color=0e75b6&style=flat" alt="tls" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tls" alt="tls" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
